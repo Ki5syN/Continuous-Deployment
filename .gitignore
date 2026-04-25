@@ -85,7 +85,6 @@ typings/
 .gitkeep
 .prettierignore
 eslint.config
-webpack.common.js
 webpack.dev.js
 package-lock.json
 .appveyor.yml
