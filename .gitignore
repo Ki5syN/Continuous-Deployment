@@ -89,7 +89,4 @@ webpack.common.js
 webpack.dev.js
 webpack.prod.js
 package-lock.json
-.babelrc
-.browserslistrc
-.editorconfig
 .appveyor.yml
